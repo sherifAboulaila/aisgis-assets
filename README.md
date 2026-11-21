@@ -1,0 +1,1 @@
+# aisgis-assets
